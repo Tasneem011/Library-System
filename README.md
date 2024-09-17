@@ -11,10 +11,10 @@ Spring Security (Optional): For implementing basic authentication or JWT-based a
 Spring Caching (Optional): For improving performance through caching.
 Aspect-Oriented Programming (AOP) (Optional): For logging and performance monitoring.
 JUnit & Mockito: For unit and integration testing of services, controllers, and repositories.
-H2/MySQL/PostgreSQL: For data storage, with H2 for in-memory testing and MySQL or PostgreSQL for production.
+MySQL: For data storage
 ModelMapper: For mapping between DTOs and entities.
 Lombok: For reducing boilerplate code with annotations like @RequiredArgsConstructor and @Slf4j.
-Docker (Optional): For containerizing the application (if used).
+
 Setup Instructions
 Clone the Repository: git clone https://github.com/Tasneem011/Library-System.git
 Navigate to the Project Directory: cd library-management-system
