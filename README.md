@@ -16,7 +16,7 @@ ModelMapper: For mapping between DTOs and entities.
 Lombok: For reducing boilerplate code with annotations like @RequiredArgsConstructor and @Slf4j.
 Docker (Optional): For containerizing the application (if used).
 Setup Instructions
-Clone the Repository: git clone https://github.com/Tasneem)11/library-management-system.git
+Clone the Repository: git clone https://github.com/Tasneem011/Library-System.git
 Navigate to the Project Directory: cd library-management-system
 Run the Application:
 Using Maven: ./mvnw spring-boot:run (or mvn spring-boot:run if Maven is installed globally)
